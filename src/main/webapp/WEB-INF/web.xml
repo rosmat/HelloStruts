@@ -14,4 +14,11 @@
         <url-pattern>/*</url-pattern>
     </filter-mapping>
 
+    <!--<jsp-config>
+        <taglib>
+            <taglib-uri>/default.tld</taglib-uri>
+            <taglib-location>/WEB-INF/default.tld</taglib-location>
+        </taglib>
+    </jsp-config>-->
+
 </web-app>

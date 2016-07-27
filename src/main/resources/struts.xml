@@ -13,6 +13,10 @@
             <result>/index.jsp</result>
         </action>
 
+        <action name="products">
+            <result>/WEB-INF/views/jsp/layouts/products.jsp</result>
+        </action>
+
     </package>
 
 </struts>
